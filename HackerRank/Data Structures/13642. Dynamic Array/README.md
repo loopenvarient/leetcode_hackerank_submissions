@@ -51,7 +51,7 @@ Complete the $dynamicArray$ function with the following parameters:
 | Language | python3 |
 | Score | 15.0 |
 | Testcases | 11/11 passed |
-| Submission ID | 481107602 |
+| Submission ID | 481286459 |
 
 ---
 
