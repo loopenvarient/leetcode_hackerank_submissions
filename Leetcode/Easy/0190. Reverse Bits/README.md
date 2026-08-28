@@ -87,8 +87,8 @@
 | --- | --- |
 | Status | Accepted |
 | Language | Python3 |
-| Runtime | 34 ms (98.04%) |
-| Memory | 19.1 MB (64.42%) |
+| Runtime | 34 ms (98.02%) |
+| Memory | 19.1 MB (64.55%) |
 | Submission ID | 2122264366 |
 
 ---
