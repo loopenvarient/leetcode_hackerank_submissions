@@ -131,8 +131,8 @@ Step 3: &quot;<u>0</u>-1&quot; (&quot;0&quot; is read in; reading stops because 
 | Status | Accepted |
 | Language | Python3 |
 | Runtime | 0 ms (100.00%) |
-| Memory | 19.4 MB (13.33%) |
-| Submission ID | 2142175722 |
+| Memory | 19.2 MB (80.98%) |
+| Submission ID | 2142176174 |
 
 ---
 
